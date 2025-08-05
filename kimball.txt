@@ -1,5 +1,4 @@
 id,name,score
 1,kimball,90
 2,leo,100
-3,jesse 70
 4，Oscar，90
